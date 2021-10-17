@@ -1,0 +1,22 @@
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\Personal Task.exe.config
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\Personal Task.exe
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\Personal Task.pdb
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\Personal Task.xml
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\Dapper.dll
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\System.Data.SQLite.dll
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\Dapper.xml
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\System.Data.SQLite.xml
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal Task.vbproj.AssemblyReference.cache
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal_Task.Resources.resources
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal_Task.Form1.resources
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal Task.vbproj.GenerateResource.cache
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal Task.vbproj.CoreCompileInputs.cache
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal Task.vbproj.CopyComplete
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal Task.exe
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal Task.xml
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal Task.pdb
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal_Task.Trial_Track.resources
+C:\Users\51009545\source\repos\Personal Task\Personal Task\bin\Debug\PersonalTask.db
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal_Task.Order_list.resources
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal_Task.Personal_task___About.resources
+C:\Users\51009545\source\repos\Personal Task\Personal Task\obj\Debug\Personal_Task.TrialList.resources
